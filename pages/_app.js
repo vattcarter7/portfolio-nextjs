@@ -4,7 +4,6 @@ import '../styles/index.scss';
 
 import Navbar from '../components/shared/Navbar';
 import Hero from '../components/shared/Hero';
-import App from 'next/app';
 
 const MyApp = ({ Component, pageProps }) => {
   return (
